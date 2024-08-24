@@ -1,7 +1,7 @@
 body {
   background-color: rgb(199, 211, 202);
   font-family: "Poppins", sans-serif;
-  font-weight: 400;
+  font-weight: 500;
   font-style: normal;
 }
 
@@ -51,12 +51,12 @@ main {
 
 .MeteoApp-city {
   margin: 0;
-  font-size: 38px;
+  font-size: 45px;
   line-height: 48px;
 }
 
 .MeteoApp-data {
-  font-size: 18px;
+  font-size: 16px;
   line-height: 25px;
 }
 
