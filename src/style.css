@@ -1,7 +1,7 @@
 body {
   background-color: rgb(199, 211, 202);
-  font-family: "Poppins", sans-serif;
-  font-weight: 500;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
   font-style: normal;
 }
 
@@ -34,7 +34,7 @@ header {
 
 .search-form-button {
   background: darkgreen;
-  padding: 15px 10px 15px 10px;
+  padding: 15px 12px 15px 12px;
   font-size: 16px;
   border: none;
   border-radius: 6px;
@@ -73,7 +73,7 @@ main {
 .MeteoApp-icon {
   width: 48px;
   height: 48px;
-  margin-top: 25px;
+  margin-top: 15px;
 }
 
 .MeteoApp-temp° {
