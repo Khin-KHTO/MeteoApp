@@ -71,8 +71,9 @@ main {
 }
 
 .MeteoApp-icon {
-  font-size: 48px;
-  margin-top: 11px;
+  width: 48px;
+  height: 48px;
+  margin-top: 25px;
 }
 
 .MeteoApp-temp° {
